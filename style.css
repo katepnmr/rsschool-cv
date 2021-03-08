@@ -26,12 +26,14 @@ header {
   padding: 10px 10px 10px 0px;
   display: flex;
   justify-content: space-around;
-  border: 10px solid #c0ebe6;
 }
 
 address {
   margin-top: 30px;
   font-size: 20px;
+}
+img {
+  border-radius: 0%;
 }
 h3 {
   margin: 20px 0px 20px 0px;
@@ -40,4 +42,7 @@ h3 {
 li {
   text-align: center;
   list-style-type: none;
+}
+footer {
+  text-align: center;
 }
