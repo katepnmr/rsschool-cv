@@ -11,6 +11,28 @@ Briefly about myself. I'm working as an English customer support manager at the 
 
 Programming skills. HTML, CSS, JavaScript, frameworks (Bootstrap), methodologies, version control systems (Git, GitHub).
 
+Code examples.
+
+function century(year) {
+let century;// Finish this :) 
+if (year %100 === 0) {
+century =  Math.trunc (year / 100) 
+} else {
+century = Math.trunc (year / 100) + 1;
+}
+  return century;
+}
+
+
+menu.onclick = function myFunction() {
+    var x = document.getElementById('myTopnav');
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+} 
+
 There is no working experience in the programming area, but I hope it will change soon :)**
 
 Education. I have graduated the Minsk State Linguistic University in 2019, the Spanish language faculty. *
