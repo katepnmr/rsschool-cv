@@ -7,7 +7,7 @@
 
 __My e-mail address is__ *eponomarenko96@mail.ru*
 
-__The phone number is __ *+375447423207*
+__The phone number is__ *+375447423207*
 
 **Briefly about myself.** *I'm working as an English customer support manager at the moment. Moreover, I have the working experience in different areas, including the position of a teacher. I'm outgoing and open-minded person who is always open to new knowledge and experience. I appreciate in people good sence of humor and positive thinking.*
 
