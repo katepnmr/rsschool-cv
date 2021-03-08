@@ -1,0 +1,43 @@
+* {
+  background-color: #e3fafc;
+  border-radius: 20px 30px;
+  font-family: Montserrat inherit;
+}
+
+.mainInformation {
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #8d9899;
+}
+.blockinfo {
+  text-align: center;
+  max-width: 800px;
+  border: 2px solid #8d9899;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 10px 10px 10px;
+}
+header {
+  position: inherit;
+  max-width: 80%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 10px 10px 10px 0px;
+  display: flex;
+  justify-content: space-around;
+  border: 10px solid #c0ebe6;
+}
+
+address {
+  margin-top: 30px;
+  font-size: 20px;
+}
+h3 {
+  margin: 20px 0px 20px 0px;
+  font-size: 25px;
+}
+li {
+  text-align: center;
+  list-style-type: none;
+}
